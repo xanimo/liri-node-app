@@ -1,0 +1,101 @@
+Command: node liri.js my-tweets
+
+LIRI Response:
+
+User Tweets:
+
+Created On: Thu Jan 18 22:10:14 +0000 2018
+Content: https://t.co/Lm0jxcT77S
+Created On: Thu Jan 18 22:09:59 +0000 2018
+Content: https://t.co/900V74I6jM
+Created On: Thu Jan 18 22:09:41 +0000 2018
+Content: https://t.co/beSbJyA0uk
+Created On: Thu Jan 18 22:09:23 +0000 2018
+Content: https://t.co/DXdFRQCP4x
+Created On: Thu Jan 18 22:08:31 +0000 2018
+Content: https://t.co/dzVfECXSAA ?
+Created On: Thu Jan 18 22:07:31 +0000 2018
+Content: https://t.co/HkPWuW59IA
+Created On: Thu Jan 18 22:07:17 +0000 2018
+Content: https://t.co/MxAYTsYala
+Created On: Thu Jan 18 22:07:00 +0000 2018
+Content: https://t.co/0bRYircHLA
+Created On: Thu Jan 18 22:06:41 +0000 2018
+Content: https://t.co/px5xkGbbYp
+Created On: Thu Jan 18 22:06:32 +0000 2018
+Content: https://t.co/pu79QwfMuA
+Created On: Thu Jan 18 20:29:18 +0000 2018
+Content: https://t.co/Z2ihQgOaEi
+Created On: Thu Jan 18 20:29:04 +0000 2018
+Content: https://t.co/vIpVjfAENf
+Created On: Thu Jan 18 20:28:56 +0000 2018
+Content: https://t.co/rLAPKaDpy6
+Created On: Thu Jan 18 20:28:27 +0000 2018
+Content: https://t.co/AugF6awxOr
+Created On: Thu Jan 18 20:28:18 +0000 2018
+Content: https://t.co/xvl7p1esp1
+Created On: Thu Jan 18 20:28:01 +0000 2018
+Content: https://t.co/PJsrGyOuow
+
+Command: node liri.js spotify-this-song the edge david axelrod 
+
+LIRI Response:
+
+Track Details:
+Artist: David McCallum
+Name: The Edge - 2005 Digital Remaster
+Preview Url: null
+Album: The Edge: David Axelrod At Capitol Records 1966-1970
+
+Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+Track Details:
+Artist: Ace of Base
+Name: The Sign
+Preview Url: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=168034c2625d439aa7ac94bfedc654ec
+Album: The Sign (US Album) [Remastered]
+
+Command: node liri.js movie-this 
+
+LIRI Response:
+
+Movie Details:
+Title: Mr. Nobody
+Year: 26 Sep 2013
+Rating: 7.9
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes Url: http://www.rottentomatoes.com/m/mr-nobody/
+Country of Origin: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: In the year 2092, one hundred eighteen year old Nemo is recounting his life story to a reporter. He is less than clear, often times thinking that he is only thirty-four years of age. But his story becomes more confusing after he does focus on the fact of his current real age. He tells of his life at three primary points in his life: at age nine (when his parents divorced), age sixteen and age thirty-four. The confusing aspect of the story is that he tells of alternate life paths, often changing course with the flick of a decision at each of those ages. One life path has him ultimately married to Elise, a depressed woman who never got over the unrequited love she had for a guy named Stefano when she was a teenager and who asked Nemo to swear that when she died he would sprinkle her ashes on Mars. A second life path has him married to Jean. Their life is one of luxury but one also of utter boredom. And a third life path has him in a torrid romance with his step-sister Anna, the two who, as adults, would search for each other after having been torn apart as teenagers. These life paths also intersect, with the three women sometimes entering the alternate life in some other aspect. Are any of these lives real or are they all a figment of his imagination?
+Cast: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+Command: node liri.js movie-this gummo 
+
+LIRI Response:
+
+Movie Details:
+Title: Gummo
+Year: 24 Nov 1997
+Rating: 6.7
+Rotten Tomatoes Rating: N/A
+Rotten Tomatoes Url: http://www.rottentomatoes.com/m/gummo/
+Country of Origin: USA
+Language: English
+Plot: Constructing this film through random scenes, director Harmony Korine abruptly jettisoned any sort of narrative plot, so here we go: Solomon and Tummler are two bored teenage boys who live in Xenia, Ohio. A few years ago, a tornado swept through it, destroying more than half the town and killing the same amount, including Solomon's father. The film, from there, chronicles the anti-social adventures these two boys have. These include sniffing glue, killing cats, having sex, riding dirtbikes, listening to black metal, and meeting a cavalcade of quirky, bizarre, and scary people. These include a man who pimps his mentally ill wife to our anti-heroes, three sisters who play with their cat and practice becoming strippers, a black midget fending off the sexual advances of a troubled man (played by the director Harmony Korine), a 12-year-old gay transvestite who is also a cat killer, Solomon's mother who seems to be the only glimpse of sanity, two foul-mouthed six-year olds, and most importantly, a nymphlike skateboarder who walks around town wearing pink rabbit ears.
+Cast: Jacob Sewell, Nick Sutton, Lara Tosh, Jacob Reynolds
+
+Command: node liri.js do-what-it-says
+
+Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+Track Details:
+Artist: Backstreet Boys
+Name: I Want It That Way
+Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=168034c2625d439aa7ac94bfedc654ec
+Album: The Hits--Chapter One
+
