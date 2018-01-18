@@ -29,15 +29,15 @@ Reference the .env file in a new file called keys.js with the following:
 	  };
 
  	 exports.spotify = {
-    	  id: process.env.SPOTIFY_ID,
-   	  secret: process.env.SPOTIFY_SECRET
+    id: process.env.SPOTIFY_ID,
+    secret: process.env.SPOTIFY_SECRET
  	 };
 
 Once you have aquired and filled in the necessary login information, include this code block in your liri.js file at the top of the page:
 
  	 require('dotenv').config();
-	  var Twitter = require('twitter');
-	  var Spotify = require('node-spotify-api');
+	 var Twitter = require('twitter');
+	 var Spotify = require('node-spotify-api');
  	 var request = require('request');
  	 var fs = require('fs');
  	 var keys = require('./keys.js');
